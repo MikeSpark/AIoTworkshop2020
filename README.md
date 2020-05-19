@@ -7,7 +7,7 @@ What we go through today?
   2. IoTC demo
   
 **DIY**
-  3. Create your own IoT Central and viusalize your device
+3. Create your own IoT Central and viusalize your device
   
 **Cognitive Service**
   4. It's all about the Edge
