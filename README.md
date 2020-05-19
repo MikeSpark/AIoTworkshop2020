@@ -16,4 +16,4 @@ What we go through today?
 **DIY**
   6. Create your own IoT Central and viusalize your device
   
-Q&A
+Q & A
