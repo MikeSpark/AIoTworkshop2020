@@ -10,10 +10,10 @@ What we go through today?
   * Create your own IoT Central and viusalize your device
   
 **Cognitive Service**
-  4. It's all about the Edge
-  5. IoT DevKit deploy
+  * It's all about the Edge
+  * IoT DevKit deploy
 
 **DIY**
-  6. Create your own IoT Central and viusalize your device
+  * Create your own IoT Central and viusalize your device
   
 Q & A
