@@ -14,6 +14,6 @@ What we go through today?
   * IoT DevKit deploy
 
 **DIY**
-  * Create your own IoT Central and viusalize your device
+  * Deploy a Language Detection on Edge
   
 Q & A
