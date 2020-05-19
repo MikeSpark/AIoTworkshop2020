@@ -5,7 +5,6 @@ What we go through today?
 **Azure IoT Central**
   1. IaaS, PaaS & SaaS
   2. IoTC demo
-  
 **DIY**
   3. Create your own IoT Central and viusalize your device
   
